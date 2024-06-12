@@ -1,3 +1,3 @@
 def test() {
-bat  'echo welcome'  
+ echo "Image will  be push to artifactory" 
 }
