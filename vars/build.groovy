@@ -1,3 +1,3 @@
 def test() {
-sh  'echo welcome'  
+bat  'echo welcome'  
 }
